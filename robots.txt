@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://heartfelt-biscochitos-a4c38d.netlify.app/sitemap.xml
