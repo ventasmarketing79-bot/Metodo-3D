@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/METODO-3-D/',  
+  base: '/METODO-3D/',  
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
